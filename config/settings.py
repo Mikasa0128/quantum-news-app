@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-(u%vswri0m0ud)@dlpmcsboqaw6!)@+l$4s@1hinai%(*ozf6b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['quantum-news-app.onrender.com']
 
 
 # Application definition
